@@ -14,7 +14,7 @@ A partir de los datos históricos, buscamos predecir cuántas semanas va a estar
 
 ## Diccionario de Datos 📄
 
-netflix_modelo.xlsx: dataset utilizado para los modelos
+*  netflix_modelo.xlsx: dataset utilizado para los modelos
 
 | Features  | Descripcion |
 | ------------- | ------------- |
@@ -31,15 +31,17 @@ netflix_modelo.xlsx: dataset utilizado para los modelos
 | Genre | género que identifica la serie o película | 
 
 
-entorno.xlsx: varios datases con información adicional al dataset principal. Estos dataset aportaron valor al análisis inicial de los datos.
+* entorno.xlsx: varios datases con información adicional al dataset principal. Estos dataset aportaron valor al análisis inicial de los datos.
 
 market_cap: datos de distintas plataformas del mundo
-Rank: ranking
-Name: nombre de la plataforma
-Symbol: simbolo que indica la plataforma
-marketcap: métrica financiera que indica el tamaño o valor de la empresa
-price (USD): precio
-country: pais de origen de la compañía
+| Features  | Descripcion |
+| ------------- | ------------- |
+| Rank  | ranking  |
+| Name | nombre de la plataforma  |
+| Symbol  | simbolo que indica la plataforma  |
+| marketcap  |  métrica financiera que indica el tamaño o valor de la empresa |
+| price (USD)  |  precio |
+|country  |  pais de origen de la compañía |
 
 global_users: datos de los usuarios suscriptos a la plataforma Netflix
 Year: año 
