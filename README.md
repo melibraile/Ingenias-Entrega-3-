@@ -1,4 +1,4 @@
-<h1 align="center"> Ingenias Entrega 3</h1>
+<h1 align="center"> Entrega 3</h1>
 <h1 align="center"> Proyecto Netflix - grupo 4 </h1>
 
 
@@ -22,7 +22,7 @@ A partir de los datos históricos, buscamos predecir cuántas semanas va a estar
 | country_name | nombre del país en el cual se proyecta la serie o película  |
 | country_iso2  | código ISO del país (Código de dos letras para identificar países según la norma ISO 3166-1)  |
 | week | semana en la cuál la película o serie se encontró en el TOP10 |
-| category  | indica la clasificación de los títulos en Serie o Película  |
+| category  | indica la clasificación de los títulos en Serie o Película <li>**Movie**</li><li>**Series**</li>   | 
 | weekly_rank  |indica la cantidad de semanas que el título estuvo en el TOP10  |
 | show_title  | nombre de la serie o película |
 | season_title | para el caso de las series indica el título de cada temporada  |
@@ -44,18 +44,28 @@ market_cap: datos de distintas plataformas del mundo
 |country  |  pais de origen de la compañía |
 
 global_users: datos de los usuarios suscriptos a la plataforma Netflix
-Year: año 
-Netflix Subscribers	: cantidad de suscriptores
-Unidad: unidad de medida
+| Features  | Descripcion |
+| ------------- | ------------- |
+| Year  | año  |
+| Netflix Subscribers  | cantidad de suscriptores  |
+|Unidad |  unidad de medida |
+
 
 suscribers_by_region: datos de los suscriptores por región
-Region: region
-Paid_suscribers: cantidad de suscriptores
+| Features  | Descripcion |
+| ------------- | ------------- |
+| Region  | año  |
+| Paid_suscribers  | cantidad de suscriptores  |
+
 
 revenue_years: datos de ingreso monetario por año
-Year: año
-Revenue: monto 
-Unidad: unidad monetaria
+| Features  | Descripcion |
+| ------------- | ------------- |
+|Year  | año |
+|Revenue  | monto |
+|Unidad  | unidad monetaria |
+
+
  
 
 
