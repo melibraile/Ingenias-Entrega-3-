@@ -1,7 +1,8 @@
 # Ingenias-Entrega-3-
 Proyecto Netflix - grupo 4
-PROYECTO: NETFLIX
+
 Integrantes: Mariela Abrego, Melisa Braile, Tania Damiani, Mariana Grau, Micaela Melian 
+
 Objetivo: A partir de los datos históricos, buscamos predecir cuántas semanas va a estar un título top ten en las diferentes regiones, teniendo el cuenta el género, el content type y el tipo de estación a la que pertenecen
 
 Diccionario de Datos:
