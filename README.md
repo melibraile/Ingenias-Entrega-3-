@@ -16,27 +16,19 @@ A partir de los datos históricos, buscamos predecir cuántas semanas va a estar
 
 netflix_modelo.xlsx: dataset utilizado para los modelos
 
-region: indica continente en el cual se proyecta la serie o película
-
-country_name: nombre del país en el cual se proyecta la serie o película
-
-country_iso2: código ISO del país (Código de dos letras para identificar países según la norma ISO 3166-1)
-
-week: semana en la cuál la película o serie se encontró en el TOP10
-
-category: indica la clasificación de los títulos en Serie o Película
-
-weekly_rank: indica la cantidad de semanas que el título estuvo en el TOP10
-
-show_title: nombre de la serie o película
-
-season_title: para el caso de las series indica el título de cada temporada
-
-cumulative_weeks_in_top_10: cantidad de semanas acumuladas que el título estuvo en el TOP10
-
-Realease Year: año de lanzamiento de la serie o película
-
-Genre: género que identifica la serie o película
+| Features  | Descripcion |
+| ------------- | ------------- |
+| region  | indica continente en el cual se proyecta la serie o película  |
+| country_name | nombre del país en el cual se proyecta la serie o película  |
+| country_iso2  | código ISO del país (Código de dos letras para identificar países según la norma ISO 3166-1)  |
+| week | semana en la cuál la película o serie se encontró en el TOP10 |
+| category  | indica la clasificación de los títulos en Serie o Película  |
+| weekly_rank  |indica la cantidad de semanas que el título estuvo en el TOP10  |
+| show_title  | nombre de la serie o película |
+| season_title | para el caso de las series indica el título de cada temporada  |
+| cumulative_weeks_in_top_10  | cantidad de semanas acumuladas que el título estuvo en el TOP10  |
+| Realease Year  | año de lanzamiento de la serie o película |
+| Genre | género que identifica la serie o película | 
 
 
 entorno.xlsx: varios datases con información adicional al dataset principal. Estos dataset aportaron valor al análisis inicial de los datos.
