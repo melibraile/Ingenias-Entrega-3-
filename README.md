@@ -8,6 +8,7 @@ Objetivo: A partir de los datos históricos, buscamos predecir cuántas semanas 
 Diccionario de Datos:
 
 netflix_modelo.xlsx: dataset utilizado para los modelos
+
 region: indica continente en el cual se proyecta la serie o película
 country_name: nombre del país en el cual se proyecta la serie o película
 country_iso2: código ISO del país (Código de dos letras para identificar países según la norma ISO 3166-1)
@@ -22,6 +23,7 @@ Genre: género que identifica la serie o película
 
 
 entorno.xlsx: varios datases con información adicional al dataset principal. Estos dataset aportaron valor al análisis inicial de los datos.
+
 market_cap: datos de distintas plataformas del mundo
 Rank: ranking
 Name: nombre de la plataforma
