@@ -9,8 +9,18 @@
 * **Mariana Grau**
 * **Micaela Melian**
 
+## Descripción de la plataforma Netflix
+
+Netflix es un servicio de streaming que te ofrece una amplia gama de películas, series y documentales de alta calidad, disponibles en prácticamente cualquier dispositivo conectado a internet.
+El usuario puede disfrutar de todo lo que desee ver, sin restricciones ni interrupciones publicitarias, a un precio accesible. Además, todas las semanas se ingestan nuevos contenidos a la plataforma. 
+La propuesta de valor es: disfruta de tus contenidos cuando y donde quieras. Es posible iniciar sesión desde cualquier dispositivo conectado a internet, ya sea, computadoras, smart TVs, smartphones, tables, reproductores multimedia y consolas de videojuegos. Además contratando el servicio es posible descargar y ver de forma offline el contenido en dispositivos IOS, Android o la aplicación para Windows 10. 
+Netflix cuenta con un extenso catálogo que incluye películas, series, documentales, animes y producciones originales galardonadas. 
+
+Fuente: www.netflix.com
+
 ## Objetivo 📌
-A partir de los datos históricos, buscamos predecir cuántas semanas va a estar un título top ten en las diferentes regiones, teniendo el cuenta el género, el content type y el tipo de estación a la que pertenecen
+A partir de los datos históricos, buscamos predecir cuántas semanas va a estar un título top ten en Netflix  en las diferentes regiones, teniendo el cuenta el género, el content type y el tipo de estación a la que pertenecen
+
 
 ## Diccionario de Datos 📄
 
