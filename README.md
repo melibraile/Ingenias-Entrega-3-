@@ -1,5 +1,5 @@
 <h1 align="center"> Entrega 3</h1>
-<h1 align="center"> Proyecto Netflix - grupo 4 </h1>
+<h1 align="center"> Proyecto Netflix - grupo 5 </h1>
 
 
 ## Integrantes ✒️
